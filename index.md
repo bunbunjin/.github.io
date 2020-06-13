@@ -2,7 +2,7 @@ Welcome to bunbunjin.github.io
 ==============================
 ![alt](https://avatars2.githubusercontent.com/u/52102486?s=400&u=cc096c4a5e0f15a71af47bd7d6e2d3bd0160661b&v=4)
 
-梶家 龍 (bunbunjin)
+Ryu Kajie (bunbunjin)
 　 岡山県在住17歳
  
  - Twitter [@bunbunjin_aisu](https://twitter.com/bunbunjin_aisu)
@@ -16,6 +16,11 @@ Welcome to bunbunjin.github.io
  - RaspberryPi
 >- 役に立つ系の物を作りたい
 
+これまでの教材
+--------
+- いちばんやさしいPythonの教本
+- 独学プログラマー
+- スラスラ読める Pythonふりがなプログラミング
 
 趣味とか
 -------
@@ -26,6 +31,7 @@ Welcome to bunbunjin.github.io
 最近したこと
 ------------
  - [これまでの練習のやつ](https://github.com/bunbunjin/practice)
+>- 教材で書いた方のコードは全然あげてないけど
  - [漢数字を数字に変換するやつ](https://github.com/bunbunjin/kanji)
 ><blockquote class="twitter-tweet"><p lang="ja" dir="ltr">漢数字を変換するやつ。ちょっと前に作ってた😘 <a href="https://t.co/7SIPoENcoi">pic.twitter.com/7SIPoENcoi</a></p>&mdash; ぶんぶん人 (@bunbunjin_aisu) <a href="https://twitter.com/bunbunjin_aisu/status/1271811347261480964?ref_src=twsrc%5Etfw">June 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
