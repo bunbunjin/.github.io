@@ -27,8 +27,7 @@ Welcome to bunbunjin.github.io
 ------------
  - [これまでの練習のやつ](https://github.com/bunbunjin/practice)
  - [漢数字を数字に変換するやつ](https://github.com/bunbunjin/kanji)
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">漢数字を変換するやつ。ちょっと前に作ってた😘 <a href="https://t.co/7SIPoENcoi">pic.twitter.com/7SIPoENcoi</a></p>&mdash; ぶんぶん人 (@bunbunjin_aisu) <a href="https://twitter.com/bunbunjin_aisu/status/1271811347261480964?ref_src=twsrc%5Etfw">June 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+>><blockquote class="twitter-tweet"><p lang="ja" dir="ltr">漢数字を変換するやつ。ちょっと前に作ってた😘 <a href="https://t.co/7SIPoENcoi">pic.twitter.com/7SIPoENcoi</a></p>&mdash; ぶんぶん人 (@bunbunjin_aisu) <a href="https://twitter.com/bunbunjin_aisu/status/1271811347261480964?ref_src=twsrc%5Etfw">June 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
  - [raspberry pi でおかえりって言ってもらうやつ](https://github.com/bunbunjin/pi)
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">「おかえり・いってらっしゃいを言ってくれるラズパイさん」がある程度完成した。あとは壁につけるだけ</p>&mdash; ぶんぶん人 (@bunbunjin_aisu) <a href="https://twitter.com/bunbunjin_aisu/status/1244943465642733569?ref_src=twsrc%5Etfw">March 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+>><blockquote class="twitter-tweet"><p lang="ja" dir="ltr">「おかえり・いってらっしゃいを言ってくれるラズパイさん」がある程度完成した。あとは壁につけるだけ</p>&mdash; ぶんぶん人 (@bunbunjin_aisu) <a href="https://twitter.com/bunbunjin_aisu/status/1244943465642733569?ref_src=twsrc%5Etfw">March 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
