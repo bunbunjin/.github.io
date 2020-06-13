@@ -18,6 +18,6 @@ Welcome to bunbunjin.github.io
 ------------
  - [これまでの練習のやつ](https://github.com/bunbunjin/practice)
  - [漢数字を数字に変換するやつ](https://github.com/bunbunjin/kanji)
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">漢数字を変換するやつ。ちょっと前に作ってた <a href="https://t.co/m7AifyLkrT">pic.twitter.com/m7AifyLkrT</a></p>&mdash; ぶんぶん人 (@bunbunjin_aisu) <a href="https://twitter.com/bunbunjin_aisu/status/1271805984432730113?ref_src=twsrc%5Etfw">June 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://t.co/m7AifyLkrT">pic.twitter.com/m7AifyLkrT</a></p>&mdash; ぶんぶん人 (@bunbunjin_aisu) <a href="https://twitter.com/bunbunjin_aisu/status/1271805984432730113?ref_src=twsrc%5Etfw">June 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
  - [raspberry pi でおかえりって言ってもらうやつ](https://github.com/bunbunjin/pi)
 
