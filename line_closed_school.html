@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>line_closed_school</title>
+</head>
+
+<body>
+    <h1>岡山に警報が出てたらLINEで通知してくれるやつ</h1>
+    <section id="Overview">
+        <h2>使ったやつ</h2>
+        <li>BeautifulSoup</li>
+        <li>Request</li>
+        <li>LINE Notify</li>
+    </section>
+    <section id="Explanation">
+        <h2>説明するなり</h2>
+        <p>
+            岡山県の市町村すべての警報・注意報をスクレイピングして引き抜いていい感じにLINE Notifyを使って7時とか6時ぐらいに通知してくれるようにした。<br>今回は、'enumerat()'と辞書を多用して地域別にどんな警報・注意報が出てるかを判別して行った。<br>'wrn_okayama()'と'adv_okayama()'で地域とその地域で出ている警報・注意報を判断させている。<br>あと、リストをN個ずつの要素で分けていく所が今回の必須ポイントだった。
+    </section>
+    <section id="Before">
+        <h2>作ってから感じたこと</h2>
+            <li>結構勢いで書き始めたから、序盤に書いてたコードが汚くなってる。</li>
+            <li>全体的にややこしい作りになってて可読性が結構低いと思う。</li>
+            <li>なんか序盤に時間をかけて書いたところがもっといい感じに書けそうって思ってもなんとなく認めたくなくてモヤモヤした</li>
+            <li>BeautifulSoup便利すぎた。</li>    
+            </section>
+    <section id="Before">
+       <h2>これからしようかなってこと</h2>
+       <li>現状では辞書を使って地域を分けてるから、URLを貼っつけたら地域を分けれる感じにしたい</li>
+        <li>LINE Notifyで通知させるだけじゃなくて他の機能をつけても楽しいかもしれない</li>
+    </section>
+</body>
+
+</html>
