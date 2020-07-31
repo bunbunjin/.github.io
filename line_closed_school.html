@@ -4,33 +4,52 @@
 <head>
     <meta charset="UTF-8">
     <title>line_closed_school</title>
+    <link href='css/closed_school.css' rel="stylesheet">
+    <link href="images/Screen%20Shot%202020-07-29%20at%200.21.50.png">
 </head>
 
 <body>
+   <section id="center">
     <h1>岡山に警報が出てたらLINEで通知してくれるやつ</h1>
+    <article class="use">
+            <h2>使ったやつ</h2>
     <section id="Overview">
-        <h2>使ったやつ</h2>
         <li>BeautifulSoup</li>
         <li>Request</li>
         <li>LINE Notify</li>
-    </section>
+        </section>
+    </article>
     <section id="Explanation">
         <h2>説明するなり</h2>
         <p>
-            岡山県の市町村すべての警報・注意報をスクレイピングして引き抜いていい感じにLINE Notifyを使って7時とか6時ぐらいに通知してくれるようにした。<br>今回は、'enumerat()'と辞書を多用して地域別にどんな警報・注意報が出てるかを判別して行った。<br>'wrn_okayama()'と'adv_okayama()'で地域とその地域で出ている警報・注意報を判断させている。<br>あと、リストをN個ずつの要素で分けていく所が今回の必須ポイントだった。
+            岡山県の市町村すべての警報・注意報をスクレイピングして引き抜いていい感じにLINE Notifyを使って7時とか6時ぐらいに通知してくれるようにした。<br>今回は、'enumerat()'と辞書を多用して地域別にどんな警報・注意報が出てるかを判別して行った。<br>苦戦した所は、どうやって地域と警報の内容を分けていこうかって所。結局は全部の要素を警報の数で分けてそれをまた、リストにしてそこから順番で警報内容を判別して行った。あと、リスト自体を要素としてたからそれの順番で地域を判別してる。
+            <img src="images/Screen%20Shot%202020-07-29%20at%200.21.50.png" id="list">
+            <br>↑がいい感じn個の要素で作ってくれるやつ<br>
+            
+            <br>'wrn_okayama()'と'adv_okayama()'で地域とその地域で出ている警報・注意報を判断させている。<br>最終的に警報が出てるか出てないかを見えるやつもついでになったが作った。
+            <img src="images/Screen%20Shot%202020-07-29%20at%200.22.25.png">
     </section>
     <section id="Before">
         <h2>作ってから感じたこと</h2>
+           <li>いい感じの変数名が決められなくてスネークケースがたくさんある</li>
             <li>結構勢いで書き始めたから、序盤に書いてたコードが汚くなってる。</li>
             <li>全体的にややこしい作りになってて可読性が結構低いと思う。</li>
             <li>なんか序盤に時間をかけて書いたところがもっといい感じに書けそうって思ってもなんとなく認めたくなくてモヤモヤした</li>
-            <li>BeautifulSoup便利すぎた。</li>    
+            <li>BeautifulSoup便利すぎた。</li> 
+            <li>自分が作る物は辞書を多用する傾向にある</li>   
             </section>
     <section id="Before">
        <h2>これからしようかなってこと</h2>
        <li>現状では辞書を使って地域を分けてるから、URLを貼っつけたら地域を分けれる感じにしたい</li>
+       <li>もう少しスクレイピングになれるために練習したい</li>
         <li>LINE Notifyで通知させるだけじゃなくて他の機能をつけても楽しいかもしれない</li>
     </section>
+    </section>
+    <footer>
+       <section id="Footer">
+        <a href="https://bunbunjin.github.io/">ぶんぶん人</a>
+        </section>
+    </footer>
 </body>
 
 </html>
