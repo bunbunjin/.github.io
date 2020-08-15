@@ -31,7 +31,7 @@ Ryu Kajie (bunbunjin)
 
 最近したこと
 ------------
- - Raspberry PiにカメラモジュールをつけてWebカメラにしようかなぁって思って遊んだ
+ - [Raspberry PiにカメラモジュールをつけてWebカメラにしようかなぁって思って遊んだ](https://bunbunjin.github.io/raspberrypi_camera)
 >- 結果はWebカメラにはなった(?)けど2秒ぐらいの遅延があって使い物にならなかった
 
  - [7時時点で警報が出てるかLINEで通知してくれるやつ](https://github.com/bunbunjin/line_closed_school)
