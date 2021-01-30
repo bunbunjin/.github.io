@@ -3,7 +3,7 @@ Welcome to bunbunjin.github.io
 ![alt](https://avatars2.githubusercontent.com/u/52102486?s=400&u=cc096c4a5e0f15a71af47bd7d6e2d3bd0160661b&v=4)
 
 Ryu Kajie (bunbunjin)
-　 岡山県在住17歳
+　 岡山県在住18歳
  
  - Twitter [@bunbunjin_aisu](https://twitter.com/bunbunjin_aisu)
  - Facebook [@bunbunjin.aisu](https://www.facebook.com/bunbunjin.aisu)
