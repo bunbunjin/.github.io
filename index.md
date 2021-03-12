@@ -32,12 +32,12 @@ Ryu Kajie (bunbunjin)
  
 最近したこと
 ------------
- - [Raspberry PiにカメラモジュールをつけてWebカメラにしようかなぁって思って遊んだ](https://bunbunjin.github.io/markdown/pi_camera.md)
+ - [Raspberry PiにカメラモジュールをつけてWebカメラにしようかなぁって思って遊んだ](https://bunbunjin.github.io/pi_camera.md)
 >- 結果はWebカメラにはなった(?)けど2秒ぐらいの遅延があって使い物にならなかった
 
  - [7時時点で警報が出てるかLINEで通知してくれるやつ](https://github.com/bunbunjin/line_closed_school)
 ><blockquote class="twitter-tweet"><p lang="ja" dir="ltr">警報出た時にLINEで通知してくれるやつ作った。</p>&mdash; ぶんぶん人 (@bunbunjin_aisu) <a href="https://twitter.com/bunbunjin_aisu/status/1287353243320737797?ref_src=twsrc%5Etfw">July 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-- [ある程度詳しく](https://bunbunjin.github.io/markdown/line_alarm.md)
+- [ある程度詳しく](https://bunbunjin.github.io/inline_alarm.md)
 
  - [raspberry pi でおかえりって言ってもらうやつ](https://github.com/bunbunjin/pi)
 ><blockquote class="twitter-tweet"><p lang="ja" dir="ltr">「おかえり・いってらっしゃいを言ってくれるラズパイさん」がある程度完成した。あとは壁につけるだけ</p>&mdash; ぶんぶん人 (@bunbunjin_aisu) <a href="https://twitter.com/bunbunjin_aisu/status/1244943465642733569?ref_src=twsrc%5Etfw">March 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
