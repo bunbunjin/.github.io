@@ -22,16 +22,17 @@ Ryu Kajie (bunbunjin)
 - いちばんやさしいPythonの教本
 - 独学プログラマー
 - スラスラ読める Pythonふりがなプログラミング
-
+- Python実践入門
+ 
 趣味とか
 -------
  - Python
  - コーヒー
  - アニメ観賞 (推し→冴えない彼女の育て方)
-
+ 
 最近したこと
 ------------
- - [Raspberry PiにカメラモジュールをつけてWebカメラにしようかなぁって思って遊んだ](https://bunbunjin.github.io/raspberrypi_camera)
+ - [Raspberry PiにカメラモジュールをつけてWebカメラにしようかなぁって思って遊んだ](https://bunbunjin.github.io/pi_camera.md)
 >- 結果はWebカメラにはなった(?)けど2秒ぐらいの遅延があって使い物にならなかった
 
  - [7時時点で警報が出てるかLINEで通知してくれるやつ](https://github.com/bunbunjin/line_closed_school)
